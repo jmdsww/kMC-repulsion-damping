@@ -2,7 +2,7 @@
 Code for kMC simulation of repulsion-damping
 # kMC Simulation of WCA Particulate Systems: Repulsion and Damping Effects
 
-This repository contains the Python simulation codes and data processing scripts for the manuscript entitled **"Effects of Repulsion and Damping on the Structure and Dynamics of WCA Particulate Systems: A Kinetic Monte Carlo Study"** (submitted to *Particuology*).
+This repository contains the Python simulation codes and data processing scripts for the manuscript entitled **"Effects of Repulsion and Damping on the Structure and Dynamics of WCA Particulate Systems: A Kinetic Monte Carlo Study"** .
 
 ## 📖 Overview
 
